@@ -1,0 +1,6 @@
+{
+  "appId": "com.tommyxavierg2.eventManager",
+  "appName": "EventManager",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
