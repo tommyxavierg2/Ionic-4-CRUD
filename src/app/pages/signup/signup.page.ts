@@ -3,7 +3,6 @@ import { AuthService } from '../../services/user/auth.service';
 import { LoadingController, AlertController } from '@ionic/angular';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { Router } from '@angular/router';
-import { async } from '../../../../node_modules/@types/q';
 
 @Component({
   selector: 'app-signup',
